@@ -1,0 +1,22 @@
+Equipment ID,Adaptive Equipment Name,Description,Status,Last Inspection Date,Next Scheduled Maitenance,Problem Description,Repair/Fix Description,Repair Date, Cost of Repair ,Notes
+A-1,Mountain Bike,Trek,Broken,1/1/2025,1/1/2026,Rear Shock,,,,"Called Bike Shop-Estimated cost of repairs 250.00 , Planning to schedule a date for repairs"
+A-2,Mountain Bike,Trek,Caution,1/1/2025,1/1/2026,"Small Squeaks, Rattles",,,,Find out cause of squeak
+A-3,Mountain Bike,Trek,Caution,1/1/2025,1/1/2026,Slow Leak In Tire,,,,Check into using tire sealant
+A-4,Mountain Bike,Trek,Caution,1/1/2025,1/1/2026,Slow Leak In Tire,,,,Check into using tire sealant
+A-5,Hand Cycle,Invacare Top End,Safe,2/1/2025,2/1/2026,,,,,
+A-6,Hand Cycle,Invacare Top End,Safe,2/1/2025,2/1/2026,,,,,
+A-7,Hand Cycle,Invacare Top End,Safe,2/1/2025,2/1/2026,,,,,
+A-8,Hand Cycle,Invacare Top End,Safe,2/1/2025,2/1/2026,,,,,
+A-9,Hand Cycle,Invacare Top End,Safe,2/1/2025,2/1/2026,,,,,
+A-10,Recumbent Bike,Catrike,Safe,3/1/2025,3/1/2026,,,,,
+A-11,Recumbent Bike,Catrike,Safe,3/1/2025,3/1/2026,,,,,
+A-12,Recumbent Bike,Catrike,Safe,3/1/2025,3/1/2026,,,,,
+A-13,Recumbent Bike,Catrike,Caution,3/1/2025,3/1/2026,"Small Squeaks, Rattles",,,,
+A-14,Recumbent Bike,Catrike,Caution,3/1/2025,3/1/2026,Minor Display Issues,,,,
+A-15,Air Rifle,Crosman,Broken,4/1/2025,4/1/2026,Loss of Power ,Complete Factory Refurbishment,8/3/2025, $180.00 ,Need to pick up. Then will update to safe.
+A-16,Air Rifle,Crosman,Safe,4/1/2025,4/1/2026,,,,,
+A-17,Air Rifle,Crosman,Safe,4/1/2025,4/1/2026,,,,,
+A-18,Archery Bow,PSE Archery,Safe,5/1/2025,5/1/2026,,,,,
+A-19,Archery Bow,PSE Archery,Safe,5/1/2025,5/1/2026,,,,,
+A-20,Archery Bow,PSE Archery,Safe,5/1/2025,5/1/2026,,,,,
+A-21,Archery Bow,PSE Archery,Safe,5/1/2025,5/1/2026,,,,,
